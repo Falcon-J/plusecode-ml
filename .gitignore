@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Model and data artifacts
+models/
+data/
+
+# OS and IDE files
+.DS_Store
+.vscode/
